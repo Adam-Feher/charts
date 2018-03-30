@@ -11,3 +11,8 @@ def hello_world():
 @app.route('/btn')
 def btn():
     return render_template('btn.html')
+
+
+@app.route('/sb_vs_btn')
+def sb_vs_btn():
+    return render_template('sb_vs_btn.html')
