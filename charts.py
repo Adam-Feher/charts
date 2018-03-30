@@ -25,7 +25,7 @@ def bb_vs_btn():
 
 @app.route('/bvb')
 def bvb():
-    return render_template('bb_vs_btn.html')
+    return render_template('bvb.html')
 
 
 @app.route('/hu')
