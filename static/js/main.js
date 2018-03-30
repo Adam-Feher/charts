@@ -11,5 +11,6 @@ $(document).keydown(function(e) {
     }
     if (e.keyCode === 81) {
         $("#btn").click();
+        return false;
     }
 });
