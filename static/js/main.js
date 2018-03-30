@@ -9,8 +9,8 @@ $(document).keydown(function(e) {
        $(".carousel-control.right").click();
        return false;
     }
-    if (e.keyCode === 81) {
-        $("#btn").trigger('click');
+    if (e.keyCode === 87) {
+        $("#btn").click();
         return false;
     }
 });
