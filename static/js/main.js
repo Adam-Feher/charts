@@ -18,7 +18,7 @@ $(document).keydown(function(e) {
         $("#sb_vs_btn")[0].click();
         return false;
     }
-    if(e.keyCode ===67) {
+    if(e.keyCode ===69) {
         $("#bb_vs_btn")[0].click();
         return false;
     }
