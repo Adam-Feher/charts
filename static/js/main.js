@@ -12,7 +12,7 @@ $(document).keydown(function(e) {
        return false;
     }
     if (e.keyCode === 81) {
-        $("#btn").click();
+        $("#btn")[0].click();
         return false;
     }
 });
