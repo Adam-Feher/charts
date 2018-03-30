@@ -10,7 +10,7 @@ $(document).keydown(function(e) {
        return false;
     }
     if (e.keyCode === 81) {
-        $("#btn").click();
+        $("#btn").trigger('click');
         return false;
     }
 });
