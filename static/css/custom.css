@@ -14,9 +14,8 @@ a{
     outline:none;
 }
 
-.item{
-    width: 1700px;
-    height: 1300px;
+.carousel img{
+    width: 100%;
 }
 
 .carousel-inner{

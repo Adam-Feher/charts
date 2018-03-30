@@ -16,3 +16,8 @@ def btn():
 @app.route('/sb_vs_btn')
 def sb_vs_btn():
     return render_template('sb_vs_btn.html')
+
+
+@app.route('/bb_vs_btn')
+def bb_vs_btn():
+    return render_template('bb_vs_btn.html')
