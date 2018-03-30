@@ -16,14 +16,14 @@ a{
 
 .carousel img {
     width: 100%;
-    height: 100%;
-    object-fit: contain;
+    max-height: 100%;
+    object-fit: fill;
 }
 
 .carousel-inner {
     margin-top: 50px;
     width: auto;
-    height: 1160px;
+    height: auto;
 }
 
 .carousel-control.left, .carousel-control.right {
