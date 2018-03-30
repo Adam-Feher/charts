@@ -1,11 +1,11 @@
 $(document).keydown(function(e) {
 
-    if (e.keyCode === 37) {
+    if (e.keyCode === 65) {
        // Previous
        $(".carousel-control.left").click();
        return false;
     }
-    if (e.keyCode === 39) {
+    if (e.keyCode === 68) {
        // Next
        $(".carousel-control.right").click();
        return false;
