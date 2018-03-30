@@ -1,5 +1,4 @@
 $(document).keydown(function(e) {
-    e.preventDefault();
 
     if (e.keyCode === 37) {
        // Previous
