@@ -20,8 +20,10 @@ a{
     object-fit: contain;
 }
 
-.carousel-inner{
+.carousel-inner {
     margin-top: 50px;
+    width: auto;
+    height: 1160px;
 }
 
 .carousel-control.left, .carousel-control.right {
