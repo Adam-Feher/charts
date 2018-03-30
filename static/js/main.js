@@ -9,4 +9,7 @@ $(document).keydown(function(e) {
        $(".carousel-control.right").click();
        return false;
     }
+    if (e.keyCode === 81) {
+        $("#btn").click();
+    }
 });
