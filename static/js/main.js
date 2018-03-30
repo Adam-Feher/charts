@@ -1,4 +1,6 @@
 $(document).keydown(function(e) {
+    e.preventDefault();
+
     if (e.keyCode === 37) {
        // Previous
        $(".carousel-control.left").click();
@@ -9,7 +11,7 @@ $(document).keydown(function(e) {
        $(".carousel-control.right").click();
        return false;
     }
-    if (e.keyCode === 87) {
+    if (e.keyCode === 81) {
         $("#btn").click();
         return false;
     }
