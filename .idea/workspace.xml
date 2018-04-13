@@ -3,22 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="df01bc95-63b1-41af-8432-009a1180b04c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/static/images/BB_vs_BTN/BBvsBTN_11-13.PNG" afterPath="$PROJECT_DIR$/static/images/BB_vs_BTN/BBvsBTN_11-13.PNG" />
-      <change beforePath="$PROJECT_DIR$/static/images/BB_vs_BTN/BBvsBTN_13-16.PNG" afterPath="$PROJECT_DIR$/static/images/BB_vs_BTN/BBvsBTN_13-16.PNG" />
-      <change beforePath="$PROJECT_DIR$/static/images/BB_vs_BTN/BBvsBTN_16-19.PNG" afterPath="$PROJECT_DIR$/static/images/BB_vs_BTN/BBvsBTN_16-19.PNG" />
-      <change beforePath="$PROJECT_DIR$/static/images/BB_vs_BTN/BBvsBTN_20-25.PNG" afterPath="$PROJECT_DIR$/static/images/BB_vs_BTN/BBvsBTN_20-25.PNG" />
-      <change beforePath="$PROJECT_DIR$/static/images/BB_vs_BTN/BBvsBTN_8-10.PNG" afterPath="$PROJECT_DIR$/static/images/BB_vs_BTN/BBvsBTN_8-10.PNG" />
-      <change beforePath="$PROJECT_DIR$/static/images/BTN/BTN_12-25.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/images/BTN/BTN_4-6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/images/BTN/BTN_7-11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/images/BTN/BTN_vs_2Allin.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/static/images/HU/HU_10.PNG" afterPath="$PROJECT_DIR$/static/images/HU/HU_10.PNG" />
-      <change beforePath="$PROJECT_DIR$/static/images/HU/HU_11-12.PNG" afterPath="$PROJECT_DIR$/static/images/HU/HU_11-12.PNG" />
-      <change beforePath="$PROJECT_DIR$/static/images/HU/HU_13-16.PNG" afterPath="$PROJECT_DIR$/static/images/HU/HU_13-16.PNG" />
-      <change beforePath="$PROJECT_DIR$/static/images/HU/HU_17+.PNG" afterPath="$PROJECT_DIR$/static/images/HU/HU_17+.PNG" />
-      <change beforePath="$PROJECT_DIR$/static/images/HU/HU_7.PNG" afterPath="$PROJECT_DIR$/static/images/HU/HU_7.PNG" />
-      <change beforePath="$PROJECT_DIR$/static/images/HU/HU_8-9.PNG" afterPath="$PROJECT_DIR$/static/images/HU/HU_8-9.PNG" />
-      <change beforePath="$PROJECT_DIR$/static/images/SB_vs_BTN/SBvsBTN_20+.PNG" afterPath="$PROJECT_DIR$/static/images/SB_vs_BTN/SBvsBTN_20+.PNG" />
+      <change beforePath="$PROJECT_DIR$/templates/btn.html" afterPath="$PROJECT_DIR$/templates/btn.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,7 +30,7 @@
       <file leaf-file-name="bvb.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/bvb.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
+            <state relative-caret-position="14">
               <caret line="20" column="73" lean-forward="false" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
               <folding />
             </state>
@@ -55,18 +40,18 @@
       <file leaf-file-name="hu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/hu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
+            <state relative-caret-position="101">
               <caret line="37" column="67" lean-forward="false" selection-start-line="37" selection-start-column="67" selection-end-line="37" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sb_vs_btn.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sb_vs_btn.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/sb_vs_btn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="297">
+              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bb_vs_btn.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bb_vs_btn.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/bb_vs_btn.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="367">
@@ -115,8 +100,8 @@
       <file leaf-file-name="btn.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/btn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="26" column="81" lean-forward="false" selection-start-line="26" selection-start-column="81" selection-end-line="26" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -146,7 +131,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/templates/BTN.html" />
-        <option value="$PROJECT_DIR$/templates/btn.html" />
         <option value="$PROJECT_DIR$/templates/sb_vs_btn.html" />
         <option value="$PROJECT_DIR$/templates/bb_vs_btn.html" />
         <option value="$PROJECT_DIR$/static/css/custom.css" />
@@ -155,6 +139,7 @@
         <option value="$PROJECT_DIR$/charts.py" />
         <option value="$PROJECT_DIR$/static/js/main.js" />
         <option value="$PROJECT_DIR$/templates/basic.html" />
+        <option value="$PROJECT_DIR$/templates/btn.html" />
       </list>
     </option>
   </component>
@@ -222,6 +207,13 @@
               <item name="charts" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="BTN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charts" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="BVB" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -230,6 +222,13 @@
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="HU" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charts" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="SB_vs_BTN" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="charts" type="b2602c69:ProjectViewProjectNode" />
@@ -322,11 +321,26 @@
       <option name="project" value="LOCAL" />
       <updated>1522432118475</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="asd">
+      <created>1523644628287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1523644628287</updated>
+    </task>
+    <task id="LOCAL-00004" summary="asd">
+      <created>1523644862256</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1523644862256</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="-3" width="1323" height="771" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -334,7 +348,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25761124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25761124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -453,14 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/bvb.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="20" column="73" lean-forward="false" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -485,10 +491,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/btn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="26" column="81" lean-forward="false" selection-start-line="26" selection-start-column="81" selection-end-line="26" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/bvb.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="20" column="73" lean-forward="false" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/hu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
+        <state relative-caret-position="101">
           <caret line="37" column="67" lean-forward="false" selection-start-line="37" selection-start-column="67" selection-end-line="37" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sb_vs_btn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -497,22 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
           <caret line="38" column="82" lean-forward="false" selection-start-line="38" selection-start-column="82" selection-end-line="38" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/btn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/sb_vs_btn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
